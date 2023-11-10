@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "481371803804",
+    "project_id": "expensivetracker-52969",
+    "storage_bucket": "expensivetracker-52969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481371803804:android:8d630b7ab3c5f2c3291d59",
+        "android_client_info": {
+          "package_name": "com.example.expensivetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB78XyCQGXhmgcekYwFyVyJ06oQYY08tcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
